@@ -1,0 +1,72 @@
+2021-09-20 14:23:36,916:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-09-20 14:23:37,332:	INFO:	RdHc.py:__hc_check_connect_with_cloud():69	Hc send heartbeat to cloud
+2021-09-20 14:24:00,806:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-09-20 14:24:01,003:	INFO:	RdHc.py:__hc_check_connect_with_cloud():69	Hc send heartbeat to cloud
+2021-09-20 14:45:03,769:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-09-20 14:45:04,022:	INFO:	RdHc.py:__hc_check_connect_with_cloud():69	Hc send heartbeat to cloud
+2021-10-01 13:54:55,682:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-01 13:56:07,884:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-01 13:56:33,315:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-01 13:56:52,664:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-01 13:57:21,885:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-01 18:48:36,738:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-01 18:48:37,505:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-01 18:48:50,689:	INFO:	System.py:send_http_request_to_gw_online_status_url():104	ping hc status: True
+2021-10-01 18:50:05,673:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-01 18:50:05,941:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-01 18:50:11,349:	INFO:	System.py:send_http_request_to_gw_online_status_url():104	ping hc status: True
+2021-10-01 18:51:06,076:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-01 18:51:38,019:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-01 18:51:38,356:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-01 18:51:43,550:	INFO:	System.py:send_http_request_to_gw_online_status_url():104	ping hc status: True
+2021-10-01 18:52:38,417:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-01 18:53:38,478:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-01 18:54:38,538:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-01 18:54:53,770:	DEBUG:	SignalrDataHandler.py:handler():31	handler receive signal data in Response is {
+    "CMD": "EVENT_TRIGGER",
+    "DATA":
+    {
+        "EVENT_TRIGGER_ID": "aa3549d4-5471-4d75-b0b2- b70fa5c10fb2"
+    }
+}
+2021-10-01 18:54:53,770:	ERROR:	SignalrDataHandler.py:handler():40	data receive from signal invalid
+2021-10-01 18:54:55,772:	DEBUG:	SignalrDataHandler.py:handler():31	handler receive signal data in Response is {
+    "CMD": "EVENT_TRIGGER",
+    "DATA":
+    {
+        "EVENT_TRIGGER_ID": "aa3549d4-5471-4d75-b0b2- b70fa5c10fb2"
+    }
+}
+2021-10-01 18:54:55,772:	ERROR:	SignalrDataHandler.py:handler():40	data receive from signal invalid
+2021-10-01 18:55:00,778:	DEBUG:	SignalrDataHandler.py:handler():31	handler receive signal data in Response is {
+    "CMD": "EVENT_TRIGGER",
+    "DATA":
+    {
+        "EVENT_TRIGGER_ID": "aa3549d4-5471-4d75-b0b2- b70fa5c10fb2"
+    }
+}
+2021-10-01 18:55:00,778:	ERROR:	SignalrDataHandler.py:handler():40	data receive from signal invalid
+2021-10-01 18:55:05,853:	DEBUG:	SignalrDataHandler.py:handler():31	handler receive signal data in Response is {
+    "CMD": "EVENT_TRIGGER",
+    "DATA":
+    {
+        "EVENT_TRIGGER_ID": "aa3549d4-5471-4d75-b0b2- b70fa5c10fb2"
+    }
+}
+2021-10-01 18:55:05,853:	ERROR:	SignalrDataHandler.py:handler():40	data receive from signal invalid
+2021-10-01 18:55:10,858:	DEBUG:	SignalrDataHandler.py:handler():31	handler receive signal data in Response is {
+    "CMD": "EVENT_TRIGGER",
+    "DATA":
+    {
+        "EVENT_TRIGGER_ID": "aa3549d4-5471-4d75-b0b2- b70fa5c10fb2"
+    }
+}
+2021-10-01 18:55:10,858:	ERROR:	SignalrDataHandler.py:handler():40	data receive from signal invalid
+2021-10-01 18:55:17,940:	DEBUG:	SignalrDataHandler.py:handler():31	handler receive signal data in Response is {
+    "CMD": "EVENT_TRIGGER",
+    "DATA":
+    {
+        "EVENT_TRIGGER_ID": "aa3549d4-5471-4d75-b0b2- b70fa5c10fb2"
+    }
+}
+2021-10-01 18:55:17,941:	ERROR:	SignalrDataHandler.py:handler():40	data receive from signal invalid

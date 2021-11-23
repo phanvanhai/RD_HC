@@ -1,0 +1,6 @@
+2021-10-22 08:58:24,453:	ERROR:	Mqtt.py:connect():72	Exception in connect to mqtt: [Errno 111] Connection refused
+2021-10-22 08:58:24,455:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-22 08:58:31,327:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-22 09:10:22,995:	ERROR:	Mqtt.py:connect():72	Exception in connect to mqtt: [Errno 111] Connection refused
+2021-10-22 09:10:22,997:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-22 09:10:30,526:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc

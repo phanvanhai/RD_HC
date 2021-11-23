@@ -1,0 +1,6 @@
+2021-09-20 14:23:36,916:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-09-20 14:23:37,332:	INFO:	RdHc.py:__hc_check_connect_with_cloud():69	Hc send heartbeat to cloud
+2021-09-20 14:24:00,806:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-09-20 14:24:01,003:	INFO:	RdHc.py:__hc_check_connect_with_cloud():69	Hc send heartbeat to cloud
+2021-09-20 14:45:03,769:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-09-20 14:45:04,022:	INFO:	RdHc.py:__hc_check_connect_with_cloud():69	Hc send heartbeat to cloud
