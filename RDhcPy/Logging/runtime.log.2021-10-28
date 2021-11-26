@@ -1,0 +1,976 @@
+2021-10-28 09:45:05,390:	ERROR:	Mqtt.py:connect():102	Exception in connect to mqtt: [Errno 111] Connection refused
+2021-10-28 09:45:05,392:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 09:46:14,463:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 09:46:53,511:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 09:48:01,237:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 09:49:09,095:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 09:50:09,412:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 09:51:16,719:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 09:52:17,065:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 09:53:34,241:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 09:54:25,108:	INFO:	RdHc.py:__hc_update_disconnect_status_to_db():111	Update cloud disconnect status to db
+2021-10-28 10:01:06,303:	ERROR:	Mqtt.py:connect():102	Exception in connect to mqtt: [Errno 111] Connection refused
+2021-10-28 10:01:06,305:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:02:09,149:	INFO:	System.py:__push_data_to_cloud():245	have no data to push
+2021-10-28 10:02:09,154:	INFO:	System.py:__push_data_to_cloud():245	have no data to push
+2021-10-28 10:03:04,160:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:03:30,675:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:06:00,917:	ERROR:	Mqtt.py:connect():103	Exception in connect to mqtt: [Errno 111] Connection refused
+2021-10-28 10:06:00,919:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:06:07,625:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 10:06:12,715:	ERROR:	Mqtt.py:connect():103	Exception in connect to mqtt: [Errno 111] Connection refused
+2021-10-28 10:06:12,715:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:06:19,573:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 10:07:15,355:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:07:39,968:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:07:45,356:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d", "cmd": "outWeather", "temp": 24.96, "humi": 87}
+2021-10-28 10:07:45,357:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 10:07:46,358:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: abc
+2021-10-28 10:07:46,359:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 10:07:46,561:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 10:08:40,556:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:09:37,074:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:09:42,108:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d", "cmd": "outWeather", "temp": 24.96, "humi": 87}
+2021-10-28 10:09:42,108:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 10:09:43,108:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: abc
+2021-10-28 10:09:43,109:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 10:09:43,206:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 10:52:07,280:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:53:50,809:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:54:03,830:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d", "cmd": "outWeather", "temp": 22.96, "humi": 87}
+2021-10-28 10:54:03,831:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 10:54:14,671:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 10:55:06,355:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:56:04,744:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d", "cmd": "outWeather", "temp": 22.96, "humi": 87}
+2021-10-28 10:56:04,745:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 10:56:06,489:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:57:06,624:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:57:11,626:	INFO:	RdHc.py:__hc_check_connect_with_cloud():83	can not ping to cloud
+2021-10-28 10:58:05,756:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d", "cmd": "outWeather", "temp": 22.96, "humi": 87}
+2021-10-28 10:58:05,757:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 10:58:06,629:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 10:59:11,656:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 11:00:07,224:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d", "cmd": "outWeather", "temp": 22.96, "humi": 87}
+2021-10-28 11:00:07,224:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 11:00:11,943:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 11:01:12,420:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 11:02:07,688:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d", "cmd": "outWeather", "temp": 22.96, "humi": 87}
+2021-10-28 11:02:07,689:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 11:02:53,787:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 11:04:02,613:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 11:04:08,235:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():147	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d", "cmd": "outWeather", "temp": 22.96, "humi": 87}
+2021-10-28 11:04:08,236:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():162	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 11:05:03,699:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 11:05:18,721:	INFO:	RdHc.py:__hc_check_connect_with_cloud():83	can not ping to cloud
+2021-10-28 11:15:01,896:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 11:15:08,166:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 11:16:02,158:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 11:17:02,302:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:01:07,504:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:01:13,620:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:02:07,649:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:03:46,351:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:03:52,445:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:04:37,634:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:04:38,637:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:04:46,426:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:05:46,585:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:06:33,211:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:06:46,666:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:06:49,335:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:06:50,338:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:06:51,340:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:06:52,343:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:06:53,345:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:07:19,683:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:07:19,811:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:07:25,997:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:07:28,160:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:07:36,950:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:07:39,955:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:07:40,957:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:07:41,959:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:07:42,961:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:08:19,968:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:08:26,363:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:08:26,523:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:08:32,726:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:08:34,834:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:09:06,206:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:09:12,307:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:09:13,315:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:09:14,317:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:09:14,692:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:17,751:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:20,839:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:22,330:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:09:23,932:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:27,044:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:30,355:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:33,448:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:36,534:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:39,627:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:39,627:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:09:40,630:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:09:41,632:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:09:44,558:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:44,559:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:09:47,642:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:50,715:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:53,825:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:09:56,962:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:00,035:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:03,132:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:06,248:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:06,300:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:10:09,348:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:12,442:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:15,541:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:18,634:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:21,725:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:24,809:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:27,895:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:32,874:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:35,980:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:39,041:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:42,114:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:45,207:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:48,306:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:51,368:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:54,427:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:57,555:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:59,625:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:10:59,689:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:10:59,689:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:11:02,792:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:04,006:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:11:04,882:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:11:05,862:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:06,009:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:11:08,957:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:13,906:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:16,997:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:20,050:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:20,051:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:11:21,053:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:11:22,054:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:11:23,167:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:26,266:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:29,365:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:32,419:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:35,763:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:38,828:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:42,424:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:11:43,138:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:43,139:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:11:46,245:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:46,566:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:11:48,352:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:11:48,569:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo7AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:11:49,350:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:52,469:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:11:57,450:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:12:00,565:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:12:03,648:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:12:06,705:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:12:09,330:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:12:09,806:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:12:12,894:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:12:15,989:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:12:19,258:	ERROR:	Signalr.py:connect():99	Exception when connect with signalr server: can only concatenate str (not "NoneType") to str
+2021-10-28 18:12:51,688:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:12:57,778:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:13:20,877:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:13:21,878:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:13:37,938:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:13:51,764:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:13:59,053:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:14:23,693:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:14:23,826:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:14:29,182:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:14:30,018:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:14:33,188:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:15:23,919:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:16:24,066:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:16:53,702:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:16:53,923:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:16:58,258:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:17:00,125:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:17:02,263:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:17:08,077:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:17:09,080:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:17:10,082:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:17:11,084:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:17:12,086:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:17:55,296:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:17:55,438:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:18:00,635:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:18:00,745:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:18:05,752:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:18:16,454:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:18:16,611:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:18:20,955:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:18:22,811:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:18:24,960:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:18:58,309:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:18:58,454:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:19:03,689:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:19:06,892:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:19:08,896:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:19:09,898:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:19:12,603:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:19:58,541:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:20:58,647:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:21:24,012:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:21:24,177:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:21:29,532:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:21:30,404:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:21:41,314:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:21:42,317:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:21:43,318:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:21:44,320:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:21:45,322:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:21:54,225:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:21:59,299:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:22:00,300:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:22:00,504:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:22:32,500:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:22:54,375:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:25:24,454:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:25:27,584:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:25:28,586:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:25:30,774:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:27:22,449:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:27:28,542:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:27:29,655:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:27:30,657:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:28:00,701:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:28:22,653:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:28:56,749:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:28:56,920:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:29:02,260:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:29:03,137:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:29:46,860:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:29:51,001:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:29:52,002:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:29:52,327:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:30:46,926:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:31:03,142:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:31:04,038:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:31:06,455:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n", "cmd": "outWeather", "temp": 21.01, "humi": 90}
+2021-10-28 18:31:06,455:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():175	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 18:31:10,252:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:31:23,200:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:32:04,300:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:32:08,032:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:32:08,227:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:32:10,624:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n", "cmd": "outWeather", "temp": 21.01, "humi": 90}
+2021-10-28 18:32:10,624:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():175	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 18:32:14,589:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:32:15,630:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:32:52,780:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:32:52,991:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:32:55,310:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n", "cmd": "outWeather", "temp": 21.01, "humi": 90}
+2021-10-28 18:32:55,311:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():175	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 18:32:58,185:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:33:00,317:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:33:53,063:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:34:20,527:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "004e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:34:37,625:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "074e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "6vxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:34:53,184:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:34:56,804:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n", "cmd": "outWeather", "temp": 21.01, "humi": 90}
+2021-10-28 18:34:56,806:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():175	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 18:35:53,260:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:36:19,182:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:36:19,419:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:36:22,041:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n", "cmd": "outWeather", "temp": 21.01, "humi": 90}
+2021-10-28 18:36:22,042:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():175	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 18:36:23,044:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "074e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "6vxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:36:25,047:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "074e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "6vxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:36:25,690:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:36:26,049:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "074e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "6vxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:36:27,051:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "074e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "6vxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:36:28,053:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "074e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "6vxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:39:41,793:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:39:41,953:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:39:44,315:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n", "cmd": "outWeather", "temp": 21.01, "humi": 90}
+2021-10-28 18:39:44,316:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():175	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 18:39:47,132:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:40:17,254:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:40:32,342:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081094
+  }
+}
+2021-10-28 18:40:42,012:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:41:42,079:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:41:45,667:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n", "cmd": "outWeather", "temp": 21.01, "humi": 90}
+2021-10-28 18:41:45,669:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():175	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 18:42:20,312:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:42:24,388:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081094
+  }
+}
+2021-10-28 18:42:25,388:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:42:26,535:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:42:46,494:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081094
+  }
+}
+2021-10-28 18:42:55,507:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:43:22,632:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:44:22,959:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:45:23,293:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:46:23,624:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:46:43,578:	DEBUG:	Signalr.py:__connect_event_callback():72	Connect to signalr server successfully
+2021-10-28 18:46:43,798:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:46:46,264:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n", "cmd": "outWeather", "temp": 21.01, "humi": 90}
+2021-10-28 18:46:46,265:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():175	mqtt data receiver in topic HC.CONTROL invalid
+2021-10-28 18:46:50,060:	DEBUG:	System.py:send_http_request_to_gw_online_status_url():106	fail to ping hc
+2021-10-28 18:46:50,270:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:46:57,934:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081093
+  }
+}
+2021-10-28 18:47:17,998:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081094
+  }
+}
+2021-10-28 18:47:43,886:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:48:26,308:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081094
+  }
+}
+2021-10-28 18:48:36,373:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {
+  "CMD" : "HC_CONNECT_TO_CLOUD",
+  "DATA" : {
+    "DORMITORY_ID" : "a04e9f2b-2b8e-4851-a7b2-968c85d09eb0",
+    "REFRESH_TOKEN" : "avxGE6xMJn4qc/9fVx5LJ8zXnD5oMCECumBSTbO28WMZm56J6+MLEB470r0Qos7baXpCPGy8tOnh8wFksi3NJLJk1ZYSPGIvQ8ITP5yLJNWtpxqsy3AAa4OFtjAAOAHvU74xamMbsh5Kp+a5O9QQBlZNuSQpUMtPwqp6bAW5bkgsmo6AnxlFU6Ygy93kQaq2Jgh62D9A0754KfDuciGdbXHyEMb2XRPsxdWwyQmftpJT90BAwv6qhuYsl/rfSVY/",
+    "LATITUDE" : 20.9909479,
+    "LONGITUDE" : 105.8081095
+  }
+}
+2021-10-28 18:48:43,943:	INFO:	RdHc.py:__hc_check_connect_with_cloud():68	Hc send heartbeat to cloud
+2021-10-28 18:48:47,428:	DEBUG:	MqttDataHandler.py:__handler_topic_hc_control():160	data from topic HC.CONTROL: {"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n", "cmd": "outWeather", "temp": 21.01, "humi": 90}
+2021-10-28 18:48:47,428:	ERROR:	MqttDataHandler.py:__handler_topic_hc_control():175	mqtt data receiver in topic HC.CONTROL invalid
