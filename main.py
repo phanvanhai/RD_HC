@@ -9,7 +9,7 @@ from HcServices.Mqtt import Mqtt
 from Handler.MqttDataHandler import MqttDataHandler
 from Handler.SignalrDataHandler import SignalrDataHandler
 import os
-
+// test comment
 d = os.path.dirname(__file__)
 
 loghandler = logging.handlers.TimedRotatingFileHandler(filename= d + '/Logging/runtime.log', when="MIDNIGHT", backupCount=4)
